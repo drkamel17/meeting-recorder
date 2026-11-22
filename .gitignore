@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+*.spec
+
+# Compiled binaries / release artifacts (GitHub limit: 100 MB per file)
+*.exe
+*.dll
+*.msi
+
+# Local runtime data — may contain tokens, meeting data, credentials
+data/
+logs/
+*.db
+*.sqlite
+*.sqlite3
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
